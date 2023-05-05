@@ -1,0 +1,17 @@
+{
+    "name": "jgedarovich/rector-test",
+    "autoload": {
+        "psr-4": {
+            "Jgedarovich\\RectorTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jimbo",
+            "email": "jimbo@etsy.com"
+        }
+    ],
+    "require-dev": {
+        "rector/rector": "^0.16.0"
+    }
+}
